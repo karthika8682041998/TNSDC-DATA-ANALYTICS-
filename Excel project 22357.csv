@@ -1,0 +1,6 @@
+﻿Count of EmployeeStatus,EmployeeStatus,,,,,
+EmployeeType,Active,Future Start,Leave of Absence,Terminated for Cause,Voluntarily Terminated,Grand Total
+Contract,829,31,26,17,105,1008
+Full-Time,850,16,25,27,120,1038
+Part-Time,779,22,35,22,96,954
+Grand Total,2458,69,86,66,321,3000
